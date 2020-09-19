@@ -1,0 +1,15 @@
+.bloop {
+font-family: 'Pacifico', cursive;
+font-size: 400px;
+text-align: center;
+color: white;
+background-color: black;
+margin-top: 10px;
+padding-top: 10px;
+}
+
+.bloopy {
+    font-family: 'Comic Neue', cursive;
+    font-size: 50px;
+    text-align: center;
+}
